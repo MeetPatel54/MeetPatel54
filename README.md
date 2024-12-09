@@ -14,7 +14,7 @@
 - Gamer 🎮
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/meet-patel-b02632266)  
 [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-brightgreen?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/)  
 
 ### 📊 GitHub Stats
