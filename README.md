@@ -18,7 +18,10 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-brightgreen?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/)  
 
 ### 📊 GitHub Stats
-![Patel Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs)
+![Your Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username)
+
+
 
 ---
 
