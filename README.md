@@ -18,8 +18,8 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-brightgreen?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/)  
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs)
-![Your Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pmu782005&show_icons=true&count_private=true&hide=prs)
+
 
 
 
