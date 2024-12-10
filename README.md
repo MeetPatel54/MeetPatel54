@@ -22,7 +22,7 @@
 
 
 
-
+[![](https://visitcount.itsvg.in/api?id=Pmu782005&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ---
 
 Feel free to explore my repositories and connect!
