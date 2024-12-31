@@ -34,6 +34,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MeetPatel54&icon=10&color=13)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=MeetPatel54&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
