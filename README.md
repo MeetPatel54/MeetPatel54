@@ -1,3 +1,8 @@
+
+![n8agw6z2smyb1](https://github.com/user-attachments/assets/197162d4-b025-482e-b669-896e7b6ad65c)
+
+
+
 # Hi there! 👋
 
 ### 👨‍💻 About Me
