@@ -10,9 +10,8 @@
 - **Name:** Patel Meet
 - **Profession:** Web Designer & Developer | Startup Innovator
 - **Projects:**
-   - SafeZone : Real Time Disaster Information Aggregator
    - GoHelp : A platform providing reliable home services like cleaning, babysitting, handyman repairs, scrap collection, and tank cleaning.
-   - GeoTrack : is a geolocation-based attendance tracking system that automates check-ins using geofencing technology.
+  
 
 ### ✨ Hobbies & Interests
 - Passionate about technology, startups, and innovation
